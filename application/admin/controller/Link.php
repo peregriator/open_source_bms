@@ -10,6 +10,7 @@ use think\Db;
  * Class Link
  * @package app\admin\controller
  */
+
 class Link extends AdminBase
 {
     protected $link_model;
